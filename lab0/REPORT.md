@@ -229,7 +229,7 @@ print(
     f'complex_imag={type(complex_imag).__name__}'
 )
 ```
-### Фактический результат
+Фактический результат
 Enter your name: Иван
 Enter your experiment name: Проверка эксперимента
 Enter your starts count: 5
