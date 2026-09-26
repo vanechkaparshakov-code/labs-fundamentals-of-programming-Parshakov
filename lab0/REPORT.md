@@ -230,12 +230,6 @@ print(
 )
 ```
 Фактический результат
-Enter your name: Иван
-Enter your experiment name: Проверка эксперимента
-Enter your starts count: 5
-Enter your start duration: 1.3
-Enter real part: 3
-Enter imaginary part: 4
 ========================================
 ЭКСПЕРИМЕНТ: Проверка эксперимента
 Исследователь: Иван
