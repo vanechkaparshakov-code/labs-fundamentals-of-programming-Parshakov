@@ -47,7 +47,7 @@ C:\Users\Иван\Documents\lab_01>python task_1.py
 1) выражениями являются: "Python", 4 * 2, f"{course}: {hours} часов"
 2) инструкциями являются: course = "Python", hours = 4 * 2, print(f"{course}: {hours} часов")
 3) литералы: "Python", 4, 2, f"{course}: {hours} часов"
-4) имена: course, hours, print 
+4) имена: course, hours
 
 ## **Часть 3**
 
